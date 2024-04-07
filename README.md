@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adii1209" alt="adii1209" /></a> </p>
 
-- 🌱 I’m currently learning **frontend backend and frameworks**
+- 🌱 I’m currently learning **frontend devolopment  Backend devolopment  and Frameworks **
 
 - 💬 Ask me about **HTML , CSS, Java Script and Python**
 
