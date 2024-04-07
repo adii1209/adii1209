@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **frontend backend and frameworks**
 
-- 💬 Ask me about **HTML CSS Java Script and Python**
+- 💬 Ask me about **HTML , CSS, Java Script and Python**
 
 - 📫 You can reach me **adithyashankar1209@gmail.com**
 
